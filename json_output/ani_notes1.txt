@@ -1,0 +1,3 @@
+Thus by induction we have shown
+that for any tinite, non empty set
+A in a ordered set supA, int'A É A
